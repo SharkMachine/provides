@@ -31,7 +31,7 @@ This package only provides common polyfills, preventing them to be installed. Th
 
 * `symfony/polyfill-mbstring`
 
-## Sodium
+### Sodium
 
 * `paragonie/sodium_compat`
 
