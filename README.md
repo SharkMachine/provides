@@ -31,10 +31,13 @@ This package only provides common polyfills, preventing them to be installed. Th
 
 * `symfony/polyfill-mbstring`
 
+## Sodium
+
+* `paragonie/sodium_compat`
+
 ## PHP version specific
 
 * `paragonie/random_compat`
-* `paragonie/sodium_compat`
 * `symfony/polyfill-php54`
 * `symfony/polyfill-php55`
 * `symfony/polyfill-php56`
