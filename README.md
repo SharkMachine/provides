@@ -1,6 +1,6 @@
 # Let's remove unnecessary clutter by providing it with a skeleton package
 
-This package only provides common polyfills, preventing them to be included. The following polyfills are provided:
+This package only provides common polyfills, preventing them to be installed. The following polyfills are provided:
 
 ## PHP extension specific
 
@@ -20,7 +20,7 @@ This package only provides common polyfills, preventing them to be included. The
 
 * `symfony/polyfill-iconv`
 
-### Intl extension
+### Intl
 
 * `symfony/polyfill-intl-grapheme`
 * `symfony/polyfill-intl-idn`
