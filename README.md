@@ -1,6 +1,6 @@
 # Let's remove unnecessary clutter by providing it with a skeleton package
 
-This package only provides common polyfills, preventing them to be installed. Extensions polyfills are for and PHP version are required.
+This package only provides common polyfills with the assumption that the extensions are installed. This prevents them to be installed when they are not needed.
 
 The following polyfills are provided:
 
