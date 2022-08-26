@@ -1,6 +1,6 @@
 # Let's remove unnecessary clutter by providing it with a skeleton package
 
-This package only provides common polyfills with the assumption that the extensions are installed. This prevents unneeded polyfills to be installed when they are not needed.
+This package only provides common polyfills with the assumption that the extensions are installed. This prevents unneeded polyfills from being installed when they are not needed.
 
 The following polyfills are provided:
 
