@@ -15,7 +15,7 @@ composer require sharkmachine/provides
 
 # Polyfills
 
-The following polyfills are provided:
+The following packages are provided and won't be installed when this package is required:
 
 ## PHP extension specific
 
