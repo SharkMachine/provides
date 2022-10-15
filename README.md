@@ -50,4 +50,5 @@ The following polyfills are provided:
 * `symfony/polyfill-php74`
 * `symfony/polyfill-php80`
 * `symfony/polyfill-php81`
+* `symfony/polyfill-php82`
 
