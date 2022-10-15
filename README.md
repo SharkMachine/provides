@@ -2,6 +2,11 @@
 
 This package only provides common polyfills with the assumption that the extensions are installed. This prevents unneeded polyfills from being installed when they are not needed.
 
+**Available versions:**
+
+* 1.0 - PHP 8.1
+* 2.0 - PHP 8.2
+
 The following polyfills are provided:
 
 ## PHP extension specific
