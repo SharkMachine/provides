@@ -66,4 +66,6 @@ The following packages are provided and won't be installed when this package is 
 * `symfony/polyfill-php80`
 * `symfony/polyfill-php81`
 * `symfony/polyfill-php82`
+* `symfony/polyfill-php83`
+* `symfony/polyfill-php84`
 
