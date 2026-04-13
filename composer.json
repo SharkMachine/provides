@@ -23,7 +23,7 @@
     "provide": {
         "fisharebest/ext-calendar": "*",
         "paragonie/random_compat": "^9.99",
-        "paragonie/sodium_compat": "*",
+        "paragonie/sodium_compat": "^2.5",
         "ralouphie/getallheaders": "*",
         "symfony/polyfill-ctype": "*",
         "symfony/polyfill-iconv": "*",
